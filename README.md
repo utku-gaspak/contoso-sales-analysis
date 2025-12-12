@@ -18,5 +18,5 @@ The goal was to simulate a real-world business intelligence workflow: from explo
 * **Top Performers:** Segmented customers into high/medium/low value tiers using percentile ranking to target marketing efforts.
 
 ## 🚀 How to Run
-1.  Open the `analysis_notebook.ipynb` file to view the step-by-step logic.
-2.  Review `queries/` folder for raw SQL scripts used in the analysis.
+Open the `analysis_notebook.ipynb` file to view the step-by-step logic.
+
