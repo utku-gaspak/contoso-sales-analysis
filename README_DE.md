@@ -1,5 +1,5 @@
 # Vertriebsanalyse Contoso (Retail Data) 📊
-
+[![English](https://img.shields.io/badge/Lang-English-red)](README.md)
 ## 📌 Projektüberblick
 Dieses Projekt analysiert den **Contoso-Datensatz** (ein fiktiver Einzelhandels-Datensatz von Microsoft), um Umsatztrends, Kaufverhalten und Kundenbindung (Retention) zu untersuchen.
 
