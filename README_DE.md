@@ -19,5 +19,4 @@ Ziel war es, einen realistischen Business-Intelligence-Workflow zu simulieren: v
 * **Kundensegmentierung:** Einteilung der Kunden in Segmente (High/Mid/Low Value) mittels Perzentilen, um gezielte Marketingstrategien zu ermöglichen.
 
 ## 🚀 Ausführung
-1.  Öffnen Sie die Datei `analysis_notebook.ipynb`, um die Schritt-für-Schritt-Logik einzusehen.
-2.  Die reinen SQL-Skripte befinden sich im Ordner `queries/`.
+Öffnen Sie die Datei `analysis_notebook.ipynb`, um die Schritt-für-Schritt-Logik einzusehen.
