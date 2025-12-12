@@ -1,5 +1,5 @@
 # Contoso Retail Sales Analysis 📊
-[![Deutsch](https://img.shields.io/badge/Lang-Deutsch-red)](README_DE.md)
+[![Deutsch](https://img.shields.io/badge/Lang-Deutsch-red)](README_DE.md) [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](analysis_notebook.ipynb)
 ## 📌 Project Overview
 This project analyzes the **Contoso Retail dataset** (a simulated dataset from Microsoft) to identify revenue trends, customer purchasing behaviors, and product performance. 
 
